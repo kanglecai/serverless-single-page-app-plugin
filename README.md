@@ -15,7 +15,7 @@ The `serverless-single-page-app-plugin` in this example requires the Serverless 
 Install the package via NPM:
 
 ```bash
-npm install -D https://bitbucket.org/ct-bitbucket/serverless-single-page-app-plugin/tarball
+npm install -D https://github.com/kanglecai/serverless-single-page-app-plugin.git
 ```
 
 Then register it in your `serverless.yml` file, as a plugin:
